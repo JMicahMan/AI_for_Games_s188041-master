@@ -2,7 +2,7 @@
 
 public class WanderBehaviour : MonoBehaviour {
     public float focusTime = 2.0f;
-    public float Speed;
+    public float Speed; 
 
 	void Update ()
     {
